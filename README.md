@@ -14,15 +14,16 @@ the sounds and graphics.
 
 ## Instructions:
 
-   $ make
+  > $ make
    
-   $ ./GuitarHero
+  > $ ./GuitarHero
    
-   $ ./AutoHero
+  > $ ./AutoHero
 
 For the GuitarHero, the key binding are:
 
  2      4  5     7  8  9       +
+ 
 Q  W  E  R  T  Y  U  I  O  P  [
 
 For more details about this project please check the [Princeton University page](http://www.cs.princeton.edu/courses/archive/spr15/cos126/assignments/guitar.html)
