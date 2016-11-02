@@ -12,6 +12,19 @@ start. This connection makes a circular behavoir in the representation of the
 data.  We also used SFML, a C++ multimedia library, as an interface to produce
 the sounds and graphics.
 
+## Instructions:
+
+   $ make
+   
+   $ ./GuitarHero
+   
+   $ ./AutoHero
+
+For the GuitarHero, the key binding are:
+
+ 2      4  5     7  8  9       +
+Q  W  E  R  T  Y  U  I  O  P  [
+
 For more details about this project please check the [Princeton University page](http://www.cs.princeton.edu/courses/archive/spr15/cos126/assignments/guitar.html)
 and [University of Massachusetts Lowell](http://www.cs.uml.edu/~ahatem/sp16/comp2040/assign/ps3-a.html)
 
