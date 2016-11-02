@@ -1,5 +1,4 @@
-## Simuliation of a guitar string using the Karplus-Strong algorithm
-### Daniel Santos
+# Simuliation of a guitar string using the Karplus-Strong algorithm
 
 The Karplus-String algorithm is a method of physical modelling synthesis that
 loops a short waveform through a filtered delay line to simulate the sound of a
@@ -20,4 +19,5 @@ Acknowledge: some of the code in this repository were provided by Prof. Ayat
 Hatem as an academic resource.
 
 Source:
+
 [1] https://en.wikipedia.org/wiki/Karplus–Strong_string_synthesis
