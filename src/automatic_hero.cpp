@@ -109,7 +109,7 @@ int main() {
   sf::Font font;
   // Define a text for the instruction
   sf::Text text;
-  if (!font.loadFromFile("coolvetica.ttf")) {
+  if (!font.loadFromFile("res/coolvetica.ttf")) {
     std::cout << "Couldn't load fonts" << std::endl;
   } else {
     text.setString("Press Enter to Play");
